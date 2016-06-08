@@ -1,0 +1,23 @@
+== README
+
+ Ruby version 2.2.3
+
+The name of the program - Tasks generator.
+To use this program you must pass authorization.
+There are one user.
+User can create, update and delete tasks.
+When you create a task, you must includes parameters : title, content.
+
+
+Gems:
+1. Rails
+2. Devise
+3. TwitterBootstrap
+6. Rspec
+
+
+Install instruction:
+1. git clone git@github.com:SkiboPavlo/tasks_generator
+2. cd/tasks_generator
+3. bundle
+4.rails s
