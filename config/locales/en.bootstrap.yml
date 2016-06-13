@@ -15,9 +15,9 @@ en:
       confirm: "Are you sure?"
       destroy: "Delete"
       new: "New task"
-      edit: "Update"
+      edit: "Edit"
     titles:
-      edit: "Update %{model}"
+      edit: "Edit %{model}"
       save: "Save %{model}"
       new: "New %{model}"
       delete: "Delete %{model}"
